@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For Farrusco
+####################################### 
+# Class (KEYWORD1)
+#######################################
+
+Farrusco	KEYWORD1
+neck	KEYWORD1
+bumpers	KEYWORD1
+distanceSensor	KEYWORD1
+motors	KEYWORD1
+
+#######################################
+# Methods and Functions	(KEYWORD2)
+#######################################	
+
+BLeftCheck	KEYWORD2
+BRightCheck	KEYWORD2
+StopMotor	KEYWORD2
+ForwardMotor	KEYWORD2
+BackwardMotor	KEYWORD2
+TurnRightMotor	KEYWORD2
+TurnLeftMotor	KEYWORD2
+DiffTurn	KEYWORD2
+IRValueCheck	KEYWORD2
+Range	KEYWORD2
+WritePos	KEYWORD2
+RangeValue	KEYWORD2
+Rotate	KEYWORD2
+GetPosition	KEYWORD2
+Delay	KEYWORD2	
+
+#######################################
+# Constants
+#######################################
+

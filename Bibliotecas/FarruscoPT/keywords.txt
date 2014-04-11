@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For FarruscoPT
+####################################### 
+# Class (KEYWORD1)
+#######################################
+
+FarruscoPT	KEYWORD1
+pescoco	KEYWORD1
+paraChoques	KEYWORD1
+sensorDeDistancia	KEYWORD1
+motores	KEYWORD1
+
+#######################################
+# Methods and Functions	(KEYWORD2)
+#######################################	
+
+PChoqueEsqValor	KEYWORD2
+PChoqueDirValor	KEYWORD2
+Parar	KEYWORD2
+Avancar	KEYWORD2
+Recuar	KEYWORD2
+VirarDir	KEYWORD2
+VirarEsq	KEYWORD2
+DiffTurn	KEYWORD2
+IVValor	KEYWORD2
+Rotacao	KEYWORD2
+Roda	KEYWORD2
+ObterPosicao	KEYWORD2
+IVValorMetros	KEYWORD2
+ActuadorMotores	KEYWORD2
+RodaPosicao	KEYWORD2
+Espera	KEYWORD2
+RotacaoValor	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
